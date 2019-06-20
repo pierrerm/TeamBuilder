@@ -7,24 +7,27 @@
 
 Upon start-up of the application, the user is presented with a dashboard listing all new, ongoing, finished and canceled projects. General, relevant information about each project is displayed, including the project name, client, timeline, category and language. Additionally, the status of each project is shown in a visual way, using a colored status indicator. The home dashboard allows for the following tasks to be performed:
 
- 
-*Figure 1 - Home dashboard showing project list*
+<img src="https://github.com/pierrerm/TeamBuilder/blob/master/photos/photo1.png"/><br>
+_Figure 1 - Home dashboard showing project list_<br>
 
 
 ### Search projects
 Users can search for specific projects using the ‘live-search’ bar. The latter updates the search results in real-time for each new character typed. Results are ordered in decreasing relevance; all project properties are checked for matches with the search query (eg: not just the project name).
- 
-*Figure 2 - Search query 'Con' on project list showing corresponding live results*
- 
-*Figure 3 - Search query 'EN' on project list showing corresponding live results*
 
+<img src="https://github.com/pierrerm/TeamBuilder/blob/master/photos/photo2.png"/><br>
+_Figure 2 - Search query 'Con' on project list showing corresponding live results_<br>
+ 
+<img src="https://github.com/pierrerm/TeamBuilder/blob/master/photos/photo3.png"/><br>
+_Figure 3 - Search query 'EN' on project list showing corresponding live results_<br>
 
 ### Filter projects
 Users can group and order projects using specific filters from the Filtering Popup menu. Available filters include Language, Name, Client, Date Started, Date Ended and Category. The user can select a filter then choose to sort results either in ascending or descending order.
 
-*Figure 4 - Filtering Popup menu with 'Date Started' in 'Ascending' order selected*
+<img src="https://github.com/pierrerm/TeamBuilder/blob/master/photos/photo4.png"/><br>
+_Figure 4 - Filtering Popup menu with 'Date Started' in 'Ascending' order selected_<br>
  
-*Figure 5 - Filtered project list (filters: 'Date Started', order: 'Ascending')*
+<img src="https://github.com/pierrerm/TeamBuilder/blob/master/photos/photo5.png"/><br>
+_Figure 5 - Filtered project list (filters: 'Date Started', order: 'Ascending')_<br>
 
 ### Cancel/Reactivate Projects
 For traceability purposes, projects cannot be deleted altogether, however, they can be canceled. Using intuitive drag-n-drop functionality, projects can be dragged to the cancel button, which will prompt a confirmation message, and change the project status according to its previous status (canceled or active). Projects can also be reordered manually using drag-n-drop functionality.
