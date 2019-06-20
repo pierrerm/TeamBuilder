@@ -68,33 +68,44 @@ _Figure 12 - Project details page displaying project info and assigned employees
 ### View employee information
 Users can view further information about employees by clicking on the desired employee. This will then open the ‘view employee’ popup, which will display general information about the employee, contact information and individual competences. By clicking on the employee’s email address, a new email will automatically be generated with corresponding recipient and custom greeting.
  
+<img src="https://github.com/pierrerm/TeamBuilder/blob/master/photos/photo13.png"/><br>
 _Figure 13 - View employee popup displaying general, contact and competence information_<br>
 
-*Figure 14 - Automatically generated email with corresponding recipient and custom greeting*
+<img src="https://github.com/pierrerm/TeamBuilder/blob/master/photos/photo14.png"/><br>
+_Figure 14 - Automatically generated email with corresponding recipient and custom greeting_<br>
 
 ###	Assign employees to project
 Users can open the sliding side-panel to display available employees (those not already assigned to the project). From there, users can view additional information about available employees using the afore-mentioned feature. They can then assign employees to the project using intuitive drag-n-drop functionality, by dragging the desired employee to the selected employees list. This will automatically update both lists (available and selected) and will update the competences accordingly.
  
-*Figure 15 - Details page with sliding side-panel open*
- 
-*Figure 16 - View employee popup displaying general, contact and competence information of available employee*
+<img src="https://github.com/pierrerm/TeamBuilder/blob/master/photos/photo15.png"/><br>
+_Figure 15 - Details page with sliding side-panel open_<br>
 
-*Figure 17 - Dragging and dropping available employee to selected employees list*
+<img src="https://github.com/pierrerm/TeamBuilder/blob/master/photos/photo16.png"/><br>
+_Figure 16 - View employee popup displaying general, contact and competence information of available employee_<br>
 
-*Figure 18 - Successful project assignment with confirmation message & updated competences, selected and available lists*
+<img src="https://github.com/pierrerm/TeamBuilder/blob/master/photos/photo17.png"/><br>
+_Figure 17 - Dragging and dropping available employee to selected employees list_<br>
+
+<img src="https://github.com/pierrerm/TeamBuilder/blob/master/photos/photo18.png"/><br>
+_Figure 18 - Successful project assignment with confirmation message & updated competences, selected and available lists_<br>
 
 ###	Remove employees from project
 Users can remove employees that are currently assigned to the project. To do so, three options are available: selecting an employee then clicking the ‘delete’ icon or use intuitive drag-n-drop functionality to drag the desired employee either to the ‘delete’ icon, or to the selected employees list. This will prompt a confirmation from the user through a popup message, after which both lists (available and selected) and the competences will be automatically updated accordingly.
  
-*Figure 19 - Removing employee using drag-n-drop to available list*
+<img src="https://github.com/pierrerm/TeamBuilder/blob/master/photos/photo19.png"/><br>
+_Figure 19 - Removing employee using drag-n-drop to available list_<br>
 
-*Figure 20 - Confirmation message, prompted after employee has been dropped on list*
+<img src="https://github.com/pierrerm/TeamBuilder/blob/master/photos/photo20.png"/><br>
+_Figure 20 - Confirmation message, prompted after employee has been dropped on list_<br>
 
-*Figure 21 - Successful removal with confirmation message & updated competences, selected and available lists*
+<img src="https://github.com/pierrerm/TeamBuilder/blob/master/photos/photo21.png"/><br>
+_Figure 21 - Successful removal with confirmation message & updated competences, selected and available lists_<br>
 
-*Figure 22 - Removing employee using drag-n-drop to 'delete' icon*
+<img src="https://github.com/pierrerm/TeamBuilder/blob/master/photos/photo22.png"/><br>
+_Figure 22 - Removing employee using drag-n-drop to 'delete' icon_<br>
  
-*Figure 23 - Successful removal with confirmation message & updated competences, selected and available lists*
+<img src="https://github.com/pierrerm/TeamBuilder/blob/master/photos/photo23.png"/><br>
+_Figure 23 - Successful removal with confirmation message & updated competences, selected and available lists_<br>
 
 ###	Search & Filter
 As for the projects in the home dashboard, the project details page offers a ‘live-search’ bar, along with a filtering popup menu to search through all properties of employees in either the available or the selected employees lists.
